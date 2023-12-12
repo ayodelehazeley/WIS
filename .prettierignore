@@ -1,0 +1,13 @@
+**/dist
+**/coverage
+**/.vscode
+**/.vs
+.github
+app/ui/map/geos-example.ts
+build/
+package-lock.json
+public/build
+CONTRIBUTORS.md
+
+# Ignore CHANGELOG.md files to avoid issues with automated releases
+CHANGELOG.md

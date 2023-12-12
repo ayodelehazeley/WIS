@@ -1,0 +1,11 @@
+build
+coverage
+dist
+node_modules
+public/build
+
+.eslintrc.js
+postcss.config.js
+remix.config.js
+tailwind.config.js
+app/ui/map/geos-example.ts
